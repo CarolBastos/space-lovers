@@ -40,4 +40,4 @@ npm start
 
 <br>
 
-Versão publicada: https://alura-space-gules.vercel.app/
+Versão publicada: https://space-lovers-gules.vercel.app/
