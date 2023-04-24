@@ -6,7 +6,7 @@ export default function Cabecalho() {
   return (
     <header className={styles.cabecalho}>
       <div className={styles.logo}>
-        <img src={logo} alt="Logo do Space Lovers" />
+        <img src={logo} alt="Logo do Space Lovers" width="70" height="70" />
         <h1>Space Lovers</h1>
       </div>
       <div className={styles.cabecalho__container}>
