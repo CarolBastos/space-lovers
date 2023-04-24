@@ -1,7 +1,5 @@
 import React from "react";
-import facebook from "./facebook.svg";
-import twitter from "./twitter.svg";
-import instagram from "./instagram.svg";
+import linkedin from "./linkedin.svg";
 import styles from "./Rodape.module.scss";
 
 export default function Rodape() {
@@ -9,25 +7,11 @@ export default function Rodape() {
     <footer className={styles.rodape}>
       <div className={styles.rodape__icones}>
         <a
-          href="https://www.facebook.com/AluraCursosOnline/"
+          href="https://www.linkedin.com/in/carol-bastos/"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={facebook} alt="ícone do facebook" />
-        </a>
-        <a
-          href="https://twitter.com/aluraonline?lang=en"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={twitter} alt="ícone do twitter" />
-        </a>
-        <a
-          href="https://www.instagram.com/aluraonline/?hl=en"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={instagram} alt="ícone do instagram" />
+          <img src={linkedin} alt="ícone do linkedin" width="30" height="30" />
         </a>
       </div>
       <p>Desenvolvido por Carol Bastos</p>

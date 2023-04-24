@@ -5,8 +5,10 @@ import styles from "./Cabecalho.module.scss";
 export default function Cabecalho() {
   return (
     <header className={styles.cabecalho}>
-      <img src={logo} alt="Logo do Space Lovers" />
-      <h1>Space Lovers</h1>
+      <div className={styles.logo}>
+        <img src={logo} alt="Logo do Space Lovers" />
+        <h1>Space Lovers</h1>
+      </div>
       <div className={styles.cabecalho__container}>
         <input
           className={styles.cabecalho__input}
