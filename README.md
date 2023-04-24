@@ -1,18 +1,30 @@
-# Alura Space
+# Space Lovers
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Alura Space é um projeto desenvolvido em React onde é possivel visualizar imagens do espaço, favoritar, filtrar por tags, visualizar as mais curtidas, as mais vistas e muito mais!
+## :construction: Projeto em construção :construction:
 
-:construction: Projeto em construção :construction:
+<br>
+
+### Funcionalidades disponíveis
+
+- `Filtro de imagens por tag`: É possivel filtrar as imagens a partir da tag que ela possui
+
+<br>
 
 ## Tecnologias utilizadas
+
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
 
 - CSS Modules
 
+<br>
+
 ## Como executar o projeto
+
+<br>
 
 1. Instale as dependências
 
@@ -26,9 +38,6 @@ npm install
 npm start
 ```
 
-<div>
-<a href="https://github.com/CarolBastos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<br>
 
-- https://alura-space-gules.vercel.app/
+Versão publicada: https://alura-space-gules.vercel.app/
